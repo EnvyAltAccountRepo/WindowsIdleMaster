@@ -1,0 +1,15 @@
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\bin\Debug\net6.0\Windows Idle Master.exe
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\bin\Debug\net6.0\Windows Idle Master.deps.json
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\bin\Debug\net6.0\Windows Idle Master.runtimeconfig.json
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\bin\Debug\net6.0\Windows Idle Master.dll
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\bin\Debug\net6.0\Windows Idle Master.pdb
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.csproj.AssemblyReference.cache
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.AssemblyInfoInputs.cache
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.AssemblyInfo.cs
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.csproj.CoreCompileInputs.cache
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.dll
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\refint\Windows Idle Master.dll
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.pdb
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\Windows Idle Master.genruntimeconfig.cache
+C:\Users\AlexF\source\repos\Windows Idle Master\Windows Idle Master\obj\Debug\net6.0\ref\Windows Idle Master.dll
